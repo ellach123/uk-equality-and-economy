@@ -1,6 +1,6 @@
 # Version 1 · Original analysis
 
-A Tableau Story exploring how social equality and economic development relate across the local authorities of England & Wales, using the 2011 and 2021 UK Censuses. The workbook is kept as it was built; files were renamed, map labels set to English and notebook comments translated to English.
+A Tableau Story exploring how social equality and economic development relate across the local authorities of England & Wales, using the 2011 and 2021 UK Censuses. The workbook's data, fields and story are kept as they were built; files were renamed, map labels set to English, the background layers of the ethnic diversity map matched to the other maps, and notebook comments translated to English.
 
 ![2011 female managers and the 2021 creative arts industry](images/dashboard_v1_female_managers_art.png)
 
