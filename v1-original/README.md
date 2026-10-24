@@ -2,10 +2,6 @@
 
 A Tableau Story exploring how social equality and economic development relate across the local authorities of England & Wales, using the 2011 and 2021 UK Censuses. The workbook's data, fields and story are kept as they were built; files were renamed, map labels set to English, the background layers of the ethnic diversity map matched to the other maps, and notebook comments translated to English.
 
-![2011 female managers and the 2021 creative arts industry](images/dashboard_v1_female_managers_art.png)
-
-![2021 ethnic diversity and the education industry](images/dashboard_v1_diversity_education.png)
-
 <!-- TODO: add a Tableau Public link for the version 1 workbook once published
 **[▶ Explore the version 1 Tableau Story](https://public.tableau.com/...)** -->
 
@@ -38,17 +34,37 @@ The question builds on economic research. Braunstein et al. (2019) model how gen
 - **Decluttered maps.** Map layers keep only county names, water labels and cities, following the principle of visual clarity (Few, 2006).
 - **Interactivity.** Filters and highlighting connect the views within each dashboard so users can find specific areas and follow links between charts.
 - **Charts tried and dropped.** Bubble charts and treemaps were tested and dropped: they show quantities through size and make little use of geography, so they worked less well than maps.
-- **Story.** Eight dashboards were combined into one Tableau Story with seven story points:
+- **Story.** The dashboards were combined into one Tableau Story, *Relationships between social equality and economic development*, with seven story points (below).
 
-| # | Story point caption | Dashboard |
-|---|---|---|
-| 1 | Start from 2011, different genders' sci-tech proportion… | 2011 different genders' sci-tech proportion on map |
-| 2 | For manager occupation, the inequality is evident. | 2011 different genders' managers proportion on map |
-| 3 | Now it's 2021. This similarity distribution indicates art industry's importance. | 2021 creative art industry vs industry total |
-| 4 | Will education industry help to improve the ethnic group diversities? | 2021 race diversity vs education industry |
-| 5 | Will art industry be related to ethnic diversity? | 2021 race diversity vs creative art industry on map |
-| 6 | Here's a surprising finding! | Relationship between 2011 female managers and 2021 art industry |
-| 7 | The data structures from projection look familiar… | Data projection |
+## The Story
+
+**Story 1:** Start from 2011,  different genders' sci-tech proportion...
+
+![Story 1: 2011 different genders' sci-tech proportion on map](images/v1_story_1.png)
+
+**Story 2:** For manager occupation, the inequality is evident.
+
+![Story 2: 2011 different genders' managers proportion on map](images/v1_story_2.png)
+
+**Story 3:** Now it's 2021. This similarity distribution indicates art industry's importance.
+
+![Story 3: 2021 creative art industry vs industry total](images/v1_story_3.png)
+
+**Story 4:** Will education industry help to improve the ethnic group diversities?
+
+![Story 4: 2021 race diversity vs education industry](images/v1_story_4.png)
+
+**Story 5:** Will art industry be related to ethnic diversity?
+
+![Story 5: 2021 race diversity vs creative art industry on map](images/v1_story_5.png)
+
+**Story 6:** Here's a surprising finding!
+
+![Story 6: relationship between 2011 female managers and 2021 art industry](images/v1_story_6.png)
+
+**Story 7:** The data structures from projection look familiar...
+
+![Story 7: data projection](images/v1_story_7.png)
 
 ## Findings
 
