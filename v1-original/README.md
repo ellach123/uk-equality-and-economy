@@ -2,9 +2,9 @@
 
 A Tableau Story exploring how social equality and economic development relate across the local authorities of England & Wales, using the 2011 and 2021 UK Censuses. The workbook is kept as it was built; files were renamed, map labels set to English and notebook comments translated to English.
 
-<!-- TODO: add version 1 Tableau dashboard screenshots, e.g.
-![Version 1 · 2011 female managers vs 2021 art industry](images/dashboard_v1_female_managers_art.png)
-![Version 1 · ethnic diversity vs education industry](images/dashboard_v1_diversity_education.png) -->
+![2011 female managers and the 2021 creative arts industry](images/dashboard_v1_female_managers_art.png)
+
+![2021 ethnic diversity and the education industry](images/dashboard_v1_diversity_education.png)
 
 <!-- TODO: add a Tableau Public link for the version 1 workbook once published
 **[▶ Explore the version 1 Tableau Story](https://public.tableau.com/...)** -->
