@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1120" width="1000" height="1120" font-family="Helvetica, Arial, 'Microsoft YaHei', sans-serif">
+  <rect width="1000" height="1120" fill="#ffffff"/>
+  <text x="24" y="38" font-size="20" font-weight="700" fill="#1f2933">Version 1 and version 2, step by step</text>
+  <text x="24" y="62" font-size="13.5" fill="#6b7785">Each step of the version 1 reasoning, next to what version 2 does</text>
+  <text x="54" y="98" font-size="13" font-weight="700" fill="#6b7785">Version 1</text>
+  <text x="522" y="98" font-size="13" font-weight="700" fill="#6b7785">Version 2</text>
+  <line x1="54" y1="108" x2="976" y2="108" stroke="#e4e7eb"/>
+  <text x="24" y="144" font-size="13" fill="#6b7785">1</text>
+  <rect x="54" y="122" width="454" height="95" rx="10" fill="#f7f8fa" stroke="#e4e7eb"/>
+  <text x="66" y="147" font-size="14" font-weight="700" fill="#1f2933">Gender comparison, 2011</text>
+  <text x="66" y="166" font-size="13" fill="#1f2933">Men and women have different workforce sizes, so managers and</text>
+  <text x="66" y="185" font-size="13" fill="#1f2933">science/technical jobs are compared as a share of each gender's</text>
+  <text x="66" y="204" font-size="13" fill="#1f2933">total.</text>
+  <rect x="522" y="122" width="454" height="95" rx="10" fill="#ffffff" stroke="#e4e7eb"/>
+  <rect x="534" y="134" width="90" height="19" rx="9.5" fill="#e3f1e5"/>
+  <text x="543" y="147.5" font-size="12" font-weight="700" fill="#2d6a3a">Same in both</text>
+  <text x="534" y="171" font-size="13" fill="#1f2933">Both versions compare women and men as a proportion of each</text>
+  <text x="534" y="190" font-size="13" fill="#1f2933">gender's workforce.</text>
+  <text x="24" y="249" font-size="13" fill="#6b7785">2</text>
+  <rect x="54" y="227" width="454" height="150" rx="10" fill="#f7f8fa" stroke="#e4e7eb"/>
+  <text x="66" y="252" font-size="14" font-weight="700" fill="#1f2933">Creative industries as a lens on industry diversity</text>
+  <text x="66" y="271" font-size="13" fill="#1f2933">The creative industry and industry total maps look alike and the</text>
+  <text x="66" y="290" font-size="13" fill="#1f2933">scatter plot is linear, so the creative sector is used as a lens on</text>
+  <text x="66" y="309" font-size="13" fill="#1f2933">industry diversity.</text>
+  <rect x="522" y="227" width="454" height="150" rx="10" fill="#ffffff" stroke="#e4e7eb"/>
+  <rect x="534" y="239" width="95" height="19" rx="9.5" fill="#fbefd9"/>
+  <text x="543" y="252.5" font-size="12" font-weight="700" fill="#8a5a0b">Changed in v2</text>
+  <text x="534" y="276" font-size="13" fill="#1f2933">Creative jobs vs all jobs as counts: r = 0.93. Version 2 expresses</text>
+  <text x="534" y="295" font-size="13" fill="#1f2933">industries as shares of local jobs.</text>
+  <rect x="534" y="307" width="82" height="19" rx="9.5" fill="#e3eefa"/>
+  <text x="543" y="320.5" font-size="12" font-weight="700" fill="#1d4f80">Added in v2</text>
+  <text x="534" y="344" font-size="13" fill="#1f2933">A Shannon industry-diversity index across 18 sectors vs the</text>
+  <text x="534" y="363" font-size="13" fill="#1f2933">creative share: ρ = 0.53.</text>
+  <text x="24" y="409" font-size="13" fill="#6b7785">3</text>
+  <rect x="54" y="387" width="454" height="76" rx="10" fill="#f7f8fa" stroke="#e4e7eb"/>
+  <text x="66" y="412" font-size="14" font-weight="700" fill="#1f2933">Ethnic diversity × education</text>
+  <text x="66" y="431" font-size="13" fill="#1f2933">University cities score high on diversity; the scatter plot shows</text>
+  <text x="66" y="450" font-size="13" fill="#1f2933">three clusters (Eden / Peterborough / Birmingham).</text>
+  <rect x="522" y="387" width="454" height="76" rx="10" fill="#ffffff" stroke="#e4e7eb"/>
+  <rect x="534" y="399" width="186" height="19" rx="9.5" fill="#fbe6e6"/>
+  <text x="543" y="412.5" font-size="12" font-weight="700" fill="#9b2c2c">Different result with shares</text>
+  <text x="534" y="436" font-size="13" fill="#1f2933">r = 0.48 with education counts, r = 0.11 with education share.</text>
+  <text x="24" y="495" font-size="13" fill="#6b7785">4</text>
+  <rect x="54" y="473" width="454" height="76" rx="10" fill="#f7f8fa" stroke="#e4e7eb"/>
+  <text x="66" y="498" font-size="14" font-weight="700" fill="#1f2933">Education ↔ arts</text>
+  <text x="66" y="517" font-size="13" fill="#1f2933">Similar scatter patterns suggest a clear positive correlation</text>
+  <text x="66" y="536" font-size="13" fill="#1f2933">between the education and arts industries.</text>
+  <rect x="522" y="473" width="454" height="76" rx="10" fill="#ffffff" stroke="#e4e7eb"/>
+  <rect x="534" y="485" width="186" height="19" rx="9.5" fill="#fbe6e6"/>
+  <text x="543" y="498.5" font-size="12" font-weight="700" fill="#9b2c2c">Different result with shares</text>
+  <text x="534" y="522" font-size="13" fill="#1f2933">Counts r = 0.90; shares r = 0.15.</text>
+  <text x="24" y="581" font-size="13" fill="#6b7785">5</text>
+  <rect x="54" y="559" width="454" height="101" rx="10" fill="#f7f8fa" stroke="#e4e7eb"/>
+  <text x="66" y="584" font-size="14" font-weight="700" fill="#1f2933">Headline finding</text>
+  <text x="66" y="603" font-size="13" fill="#1f2933">Maps of female managers (2011) and creative-industry jobs (2021)</text>
+  <text x="66" y="622" font-size="13" fill="#1f2933">look alike, and the scatter plot is positive. The report text</text>
+  <text x="66" y="641" font-size="13" fill="#1f2933">describes a proportion; the dashboard plots counts.</text>
+  <rect x="522" y="559" width="454" height="101" rx="10" fill="#ffffff" stroke="#e4e7eb"/>
+  <rect x="534" y="571" width="95" height="19" rx="9.5" fill="#fbefd9"/>
+  <text x="543" y="584.5" font-size="12" font-weight="700" fill="#8a5a0b">Changed in v2</text>
+  <text x="534" y="608" font-size="13" fill="#1f2933">Version 1 dashboard (counts on both axes): r = 0.94; female manager</text>
+  <text x="534" y="627" font-size="13" fill="#1f2933">counts vs all jobs: r = 0.92. Version 2 (rates and shares): r = 0.65,</text>
+  <text x="534" y="646" font-size="13" fill="#1f2933">outside London r = 0.69.</text>
+  <text x="24" y="692" font-size="13" fill="#6b7785">6</text>
+  <rect x="54" y="670" width="454" height="120" rx="10" fill="#f7f8fa" stroke="#e4e7eb"/>
+  <text x="66" y="695" font-size="14" font-weight="700" fill="#1f2933">Interpretation</text>
+  <text x="66" y="714" font-size="13" fill="#1f2933">Gender equality → human capital → creativity (Nguyen, 2021), or an</text>
+  <text x="66" y="733" font-size="13" fill="#1f2933">unknown common factor.</text>
+  <rect x="522" y="670" width="454" height="120" rx="10" fill="#ffffff" stroke="#e4e7eb"/>
+  <rect x="534" y="682" width="95" height="19" rx="9.5" fill="#fbefd9"/>
+  <text x="543" y="695.5" font-size="12" font-weight="700" fill="#8a5a0b">Changed in v2</text>
+  <text x="534" y="719" font-size="13" fill="#1f2933">Version 2 adds partial correlations (0.43 for women's rate</text>
+  <text x="534" y="738" font-size="13" fill="#1f2933">controlling for men's; 0.01 the other way) and gender-balance</text>
+  <text x="534" y="757" font-size="13" fill="#1f2933">measures (gender gap r = 0.10; women's share of managers</text>
+  <text x="534" y="776" font-size="13" fill="#1f2933">r = 0.06), and describes the link as women's career advancement.</text>
+  <text x="24" y="822" font-size="13" fill="#6b7785">7</text>
+  <rect x="54" y="800" width="454" height="82" rx="10" fill="#f7f8fa" stroke="#e4e7eb"/>
+  <text x="66" y="825" font-size="14" font-weight="700" fill="#1f2933">Industry label</text>
+  <text x="66" y="844" font-size="13" fill="#1f2933">“Creative art industry”</text>
+  <rect x="522" y="800" width="454" height="82" rx="10" fill="#ffffff" stroke="#e4e7eb"/>
+  <rect x="534" y="812" width="95" height="19" rx="9.5" fill="#fbefd9"/>
+  <text x="543" y="825.5" font-size="12" font-weight="700" fill="#8a5a0b">Changed in v2</text>
+  <text x="534" y="849" font-size="13" fill="#1f2933">Version 2 uses the census name for section R: arts, entertainment</text>
+  <text x="534" y="868" font-size="13" fill="#1f2933">and recreation, which also covers sport and leisure.</text>
+  <text x="24" y="914" font-size="13" fill="#6b7785">8</text>
+  <rect x="54" y="892" width="454" height="63" rx="10" fill="#f7f8fa" stroke="#e4e7eb"/>
+  <text x="66" y="917" font-size="14" font-weight="700" fill="#1f2933">PCA / t-SNE</text>
+  <text x="66" y="936" font-size="13" fill="#1f2933">London vs non-London split; t-SNE keeps more local structure.</text>
+  <rect x="522" y="892" width="454" height="63" rx="10" fill="#ffffff" stroke="#e4e7eb"/>
+  <rect x="534" y="904" width="90" height="19" rx="9.5" fill="#e3f1e5"/>
+  <text x="543" y="917.5" font-size="12" font-weight="700" fill="#2d6a3a">Same in both</text>
+  <text x="534" y="941" font-size="13" fill="#1f2933">Both versions use the same projections.</text>
+  <text x="24" y="987" font-size="13" fill="#6b7785">9</text>
+  <rect x="54" y="965" width="454" height="63" rx="10" fill="#f7f8fa" stroke="#e4e7eb"/>
+  <text x="66" y="990" font-size="14" font-weight="700" fill="#1f2933">Bias in census categories</text>
+  <text x="66" y="1009" font-size="13" fill="#1f2933">Ethnic group categories are uneven across groups.</text>
+  <rect x="522" y="965" width="454" height="63" rx="10" fill="#ffffff" stroke="#e4e7eb"/>
+  <rect x="534" y="977" width="90" height="19" rx="9.5" fill="#e3f1e5"/>
+  <text x="543" y="990.5" font-size="12" font-weight="700" fill="#2d6a3a">Same in both</text>
+  <text x="534" y="1014" font-size="13" fill="#1f2933">Both versions include the note on census ethnic categories.</text>
+  <rect x="54" y="1052" width="90" height="19" rx="9.5" fill="#e3f1e5"/>
+  <text x="63" y="1065.5" font-size="12" font-weight="700" fill="#2d6a3a">Same in both</text>
+  <text x="150" y="1065.5" font-size="12" fill="#6b7785">No change</text>
+  <rect x="229.60000000000002" y="1052" width="95" height="19" rx="9.5" fill="#fbefd9"/>
+  <text x="238.60000000000002" y="1065.5" font-size="12" font-weight="700" fill="#8a5a0b">Changed in v2</text>
+  <text x="331" y="1065.5" font-size="12" fill="#6b7785">Different metric, method or wording</text>
+  <rect x="54" y="1080" width="186" height="19" rx="9.5" fill="#fbe6e6"/>
+  <text x="63" y="1093.5" font-size="12" font-weight="700" fill="#9b2c2c">Different result with shares</text>
+  <text x="246" y="1093.5" font-size="12" fill="#6b7785">Relationship weakens when measured as shares</text>
+  <rect x="536.3199999999998" y="1080" width="82" height="19" rx="9.5" fill="#e3eefa"/>
+  <text x="545.3199999999998" y="1093.5" font-size="12" font-weight="700" fill="#1d4f80">Added in v2</text>
+  <text x="625" y="1093.5" font-size="12" fill="#6b7785">Not in version 1</text>
+</svg>

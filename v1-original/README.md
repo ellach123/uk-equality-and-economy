@@ -2,6 +2,8 @@
 
 A Tableau Story exploring how social equality and economic development relate across the local authorities of England & Wales, using the 2011 and 2021 UK Censuses. The workbook's data, fields and story are kept as they were built; files were renamed, map labels set to English, the background layers of the ethnic diversity map matched to the other maps, and notebook comments translated to English.
 
+A revisited version and a comparison of the two are linked from the [main page](../README.md).
+
 <!-- TODO: add a Tableau Public link for the version 1 workbook once published
 **[▶ Explore the version 1 Tableau Story](https://public.tableau.com/...)** -->
 
