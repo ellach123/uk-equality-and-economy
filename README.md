@@ -75,6 +75,8 @@ The same 323 areas, measured two ways:
 
 [Office for National Statistics, Census 2011 and Census 2021](https://www.ons.gov.uk/census), local-authority level for England & Wales, used under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). UK geocoding in the Tableau workbooks is from The Information Lab.
 
+Coverage is England and Wales only (301 English and 22 Welsh local authorities). Scotland and Northern Ireland run separate censuses and are not included; place names outside England and Wales on the maps are basemap labels only.
+
 | Folder / file | Contents |
 |---|---|
 | `data/2011_industry_by_sex/`, `data/2011_occupation_by_sex/` | 2011 industry and occupation, total and by sex |
