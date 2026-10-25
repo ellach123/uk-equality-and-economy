@@ -77,9 +77,12 @@ The same 323 areas, measured two ways:
 
 Coverage is England and Wales only (301 English and 22 Welsh local authorities). Scotland and Northern Ireland run separate censuses and are not included; place names outside England and Wales on the maps are basemap labels only.
 
-| Folder / file | Contents |
-|---|---|
-| `data/2011_industry_by_sex/`, `data/2011_occupation_by_sex/` | 2011 industry and occupation, total and by sex |
-| `data/2021_industry/`, `data/2021_occupation/`, `data/2021_Ethnic_groups/` | 2021 industry, occupation and ethnic group |
-| `data/data_selected_for_tableau.csv` | Merged dataset used in Tableau |
-| `data/pca_projected_data.csv`, `data/tsne_projected_data.csv` | PCA and t-SNE projections |
+| Folder / file | Contents | Source table (Nomis) |
+|---|---|---|
+| `data/2011_industry_by_sex/` | 2011 industry, total and by sex | [KS605EW to KS607EW](https://www.nomisweb.co.uk/census/2011/ks605ew) |
+| `data/2011_occupation_by_sex/` | 2011 occupation, total and by sex | [KS608EW to KS610EW](https://www.nomisweb.co.uk/census/2011/ks608ew) |
+| `data/2021_industry/` | 2021 industry | [TS060](https://www.nomisweb.co.uk/datasets/c2021ts060) |
+| `data/2021_occupation/` | 2021 occupation | [TS063](https://www.nomisweb.co.uk/datasets/c2021ts063) |
+| `data/2021_Ethnic_groups/` | 2021 ethnic group | [TS021](https://www.nomisweb.co.uk/datasets/c2021ts021) |
+| `data/data_selected_for_tableau.csv` | Merged dataset used in Tableau | Derived (see the [version 1 notebook](v1-original/notebooks/data_preparation_projection.ipynb)) |
+| `data/pca_projected_data.csv`, `data/tsne_projected_data.csv` | PCA and t-SNE projections | Derived (same notebook) |
